@@ -11,8 +11,8 @@ let score = 0;
 // Player information
 const playerNameElement = document.getElementById('name');
 const playerRollNoElement = document.getElementById('rollNo');
-const playerName = 'Gurdit,Shaurya';
-const playerRollNo = '102003011,102103169';
+const playerName = 'Gurdit';
+const playerRollNo = '102003011';
 
 // Update player information display
 playerNameElement.textContent = `Name: ${playerName}`;
